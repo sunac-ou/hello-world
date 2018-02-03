@@ -1,23 +1,23 @@
 body{
-  background-color:#68cdd5;
-  }
+    background-color:#68cdd5;
+}
 .back{margin-top:1%;
     margin-left:1%;
-    }
+}
 .logo1{text-align:center;
-    }
+}
 .text{
-  padding: 1% 10% 1% 10%;
-  color: white;
-    }
+    padding: 10% 30% 10% 30%;
+    color: white;
+}
 .logo2{
-  float:left;
-  display:inline;
-  margin-left:5%;
-  margin-top:11%;
-  }
+    float:left;
+    display:inline;
+    margin-left:5%;
+    margin-bottom:5%;
+}
 .logo3{float:right;
-  display:inline;
-  margin-right:5%;
-  margin-top:11%;
-  }
+    display:inline;
+    margin-right:5%;
+    margin-bottom:5%;
+}
