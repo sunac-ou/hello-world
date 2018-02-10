@@ -1,0 +1,71 @@
+@charset "utf-8"
+
+html{
+    font-size: 62.5%;
+    
+}
+body{
+    font-size: 1.6rem;
+    background: #68cdd5;
+    margin:0; /* 干掉浏览器默认margin，保证格式正确 */
+}
+
+div.back{
+position: absolute;
+left:5%;
+top:2.5%;
+background: none;
+width:2.7rem;
+height:2.7rem;
+}
+
+div.logo{
+    position:absolute;
+    top:11.4%;
+    background: none;
+    width: 100%;
+    height: 7%;
+    text-align:center;
+    
+}
+
+div.text{
+    width:71%;
+    position: absolute;
+    left:14.5%;
+    top:30.4%;
+
+}
+p.text{
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 2.5rem;
+    margin:0;
+    font-family: 'Hiragino Sans GB W3','微软雅黑',sans-serif;
+    text-align: left; 
+    color:#ebf8f9;  
+}
+
+div.more_message1,div.more_message2{
+    position: absolute;
+    top: 65%;
+    width: 4.2rem;
+    height: 30%;
+}
+div.more_message1{
+    left: 21.4%;
+}
+
+div.more_message2{
+    right: 21.4%;
+}
+
+div.icon_message{
+    position: relative;
+    left: -50%;
+
+    color:white;
+    font-size: 0.95rem;
+    text-align: center;
+    width: 200%;
+}
